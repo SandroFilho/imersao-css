@@ -1,0 +1,43 @@
+body {
+  background-image: url(https://richmondinnovates.com/wp-content/uploads/2016/10/Blue-Gradient.png);
+  background-size: 200vh;
+  font-family:calibri;
+  height:100vh
+    }
+
+.menu{
+  background-color: black; 
+}
+
+a{
+  color: dimgray;
+  text-decoration: none;
+  
+}
+
+a:hover{
+  text-color: #000 ;
+}
+
+.menu li {
+  list-style: none ;
+}
+
+.menu ul{
+  display: flex;
+  justify-content: space-around;
+}
+
+h1{
+
+}
+
+.site-title,
+.site-subtitle{
+  font-weight:lighter;
+  text-align: center;
+}
+
+.site-title {
+  font-size: 60px;
+}
